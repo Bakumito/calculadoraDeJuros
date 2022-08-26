@@ -30,3 +30,5 @@ Agora que já conhecemos a ideia da aplicação e suas especificações, vamos p
 Fontes do projeto
 Disponibilizamos o documento do minimundo para download no link abaixo:
 https://www.devmedia.com.br/winrar/42687
+
+Nota: Devido a uma limitação do Windows, caracteres acentuados podem não ser exibidos corretamente no prompt de comando (cmd). Esse não é um problema do readline-sync e sim do Windows. Para resolvê-lo, execute o comando chcp 65001 no prompt de comando e a aplicação passará a exibir a acentuação corretamente.
