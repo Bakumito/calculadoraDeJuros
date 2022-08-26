@@ -1,0 +1,24 @@
+{
+  "name": "juros-compostos",
+  "version": "1.0.0",
+  "description": "O que será feito?\r O objetivo deste passo é conhecer o nosso sistema de aplicação de juros, suas especificações e sua arquitetura.",
+  "type": "module",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bakumito/juros-compostos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bakumito/juros-compostos/issues"
+  },
+  "homepage": "https://github.com/Bakumito/juros-compostos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
